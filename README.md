@@ -27,17 +27,16 @@
 2-5. Images and corresponding probability that predicted Wrong
 ![image](https://user-images.githubusercontent.com/52652682/173230482-9db5fb90-b7c8-47f1-943f-169f9acef683.png)
 
-2-1. Model
+3-1. Model
 
 ![image](https://user-images.githubusercontent.com/52652682/173230582-dd2a6bf7-894c-4da3-a128-18bcac70e72a.png)
 ![image](https://user-images.githubusercontent.com/52652682/173230584-a100fe02-34fe-42a2-8039-e08c81a50362.png)
-2-2. Training
-![image](https://user-images.githubusercontent.com/52652682/173230588-05672ba6-2c1e-4107-934f-4794fa795242.png)
-2-3. Test Accuracy
+3-2. Training
 ![image](https://user-images.githubusercontent.com/52652682/173230592-e661558a-7ccd-49fa-b2f5-a83bc5ade4b6.png)
-2-4. Images and corresponding probability that predicted Right
+3-3. Test Accuracy
 ![image](https://user-images.githubusercontent.com/52652682/173230593-f503bacc-a5d2-4317-9a25-6d92e3b99a4e.png)
+3-4. Images and corresponding probability that predicted Right
 ![image](https://user-images.githubusercontent.com/52652682/173230596-7b135fbc-2dd9-48ee-96cf-9f006cd057aa.png)
 
-2-5. Images and corresponding probability that predicted Wrong
+3-5. Images and corresponding probability that predicted Wrong
 ![image](https://user-images.githubusercontent.com/52652682/173230599-24c9aacb-8b24-473f-b971-f6fb9c7f6b22.png)
